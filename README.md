@@ -1,12 +1,18 @@
-This is the first project made from theodinproject.com
+# Project: Odin-Recipes
 
-The only language used is HTML with some basic concepts that include:
-- Headers (h1, h2, h3, etc)
-- Paragraphs (p)
-- Images with alt text (img)
-- Links to other pages (index.html to taco-pie.html, etc)
-- Unordered and ordered lists (ul / ol)
+Odin Recipes is a simple website that simply lists three different recipes and includes a photo, description, ingredients, and directions.
 
-There are a few other concepts learned to create this such as:
-- Learning to use the terminal (navigation, making folders, etc)
-- Learning how to use GIT (How to push, how to name, etc)
+This is the first project of the curriculum made from [The Odin Project](https://www.theodinproject.com) for HTML Foundations.
+##
+**Built with:**
+- HTML
+##
+**Concepts learned:**
+- Basics of GIT (Adding a repository, commiting, pushing)
+- Basics of terminal (Nagivation, creating / deleting files and directories)
+
+##### Basic HTML:
+- Text (Headers and paragraphs)
+- Images (With additional properties such as alt and width)
+- Hyperlinks (Linking to  external and internal web pages)
+- Lists (Unordered and ordered)
